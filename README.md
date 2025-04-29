@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Ali</h1>
 <h3 align="center">Data Analytics Enthusiast</h3>
 
-- 🌱 I’m currently learning **"I’m currently learning advanced data analytics techniques, machine learning algorithms**
+- 🌱 I’m currently learning **" advanced data analytics techniques, machine learning algorithms**
 
 - 👯 I’m looking to collaborate on **data analysis projects, machine learning, and data visualization. Open to working on real-world datasets and solving complex problems together**
 
