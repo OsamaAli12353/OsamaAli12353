@@ -34,18 +34,10 @@ I focus on clean architecture, solid principles, and writing maintainable code.
   - Exception handling & validation
 
 ---
-
-### 🏗️ Projects
-- 🧑‍💼 **Employee Management System** – Full CRUD app using Spring Boot & MySQL  
-- 🔐 **User Authentication System** – Role-based access with Spring Security  
-- 🧾 **Course Management App** – Demonstrates JPA mappings and AOP logging  
-
----
-
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/osama-ali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/osama3li/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/OsamaAli12353)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:osamaali@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:osamaalsharqawy92@gmail.com)
 
 ---
 
