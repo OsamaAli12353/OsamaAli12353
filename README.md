@@ -1,42 +1,52 @@
-### 👋 Hi, I’m Osama Ali
+# 👋 Hi, I'm Osama Ali  
 
-🎓 **Computer Science Graduate** from Ain Shams University (2024)  
-🧪 **Junior Software Tester** skilled in manual and automated testing  
-💻 Passionate about clean code, debugging, and delivering quality software
+💻 **Java Backend Developer | Spring Boot | REST APIs | SQL | Hibernate | AOP**
 
----
-
-### 🔧 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-%23FF6F00?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I'm passionate about building scalable and secure backend systems using modern Java technologies.  
+I focus on clean architecture, solid principles, and writing maintainable code.
 
 ---
 
-### 📂 Highlighted Projects
-
-#### 🛒 E-commerce Website Test Plan
-Designed a full test plan and executed manual + automated test cases using Selenium & TestNG.  
-📌 *Practiced bug reporting, test documentation, and scenario coverage.*
-
-#### 🧪 College Web Pages Testing
-Performed functional and UI testing on real university-related websites.  
-🧰 *Used Selenium WebDriver + POM for automation.*
-
-#### 🤖 Arabic Sign Language Recognition (Graduation Project)
-Developed a sign-to-text translation system using Flutter and TensorFlow.  
-🔍 *Focused on computer vision, gesture recognition, and accessibility.*
+### 🧠 Tech Stack
+- **Languages:** Java, SQL  
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate, JPA  
+- **Concepts:** Dependency Injection, AOP, RESTful APIs, JPA Mappings, CRUD Operations  
+- **Databases:** MySQL, PostgreSQL  
+- **Testing:** JUnit, TestNG, Selenium  
+- **Tools:** Maven, Git, Postman, IntelliJ IDEA  
 
 ---
 
-### 📬 Contact Me
+### 🚀 Featured Backend Skills
+- 🔗 **JPA / Hibernate Advanced Mappings**
+  - @OneToOne, @OneToMany, @ManyToMany (Uni & Bi-directional)
+  - Cascade Types, Fetch Types (Eager & Lazy)
+  - Entity relationships and transaction handling  
+- 🧩 **Spring AOP (Aspect Oriented Programming)**
+  - @Before, @AfterReturning, @AfterThrowing, @After, @Around advices
+  - Pointcut expressions and reusable aspects
+  - Integrating AOP with Spring MVC CRUD apps  
+- 🔐 **Spring Security**
+  - Role-based authentication & authorization  
+  - In-memory and JDBC-based user details  
+- 🌐 **REST API Development**
+  - Building, testing, and documenting APIs with Postman  
+  - Exception handling & validation
 
-📧 Email: [osaama.alli.20@gmail.com](mailto:osaama.alli.20@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/osama3li](https://linkedin.com/in/osama3li)  
-🐙 GitHub: [github.com/OsamaAli12353](https://github.com/OsamaAli12353)
+---
 
-*Last updated: July 01, 2025*
+### 🏗️ Projects
+- 🧑‍💼 **Employee Management System** – Full CRUD app using Spring Boot & MySQL  
+- 🔐 **User Authentication System** – Role-based access with Spring Security  
+- 🧾 **Course Management App** – Demonstrates JPA mappings and AOP logging  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/osama-ali)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/OsamaAli12353)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:osamaali@example.com)
+
+---
+
+💡 *"Code is like humor — when you have to explain it, it’s bad."*
