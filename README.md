@@ -9,7 +9,7 @@ I focus on clean architecture, solid principles, and writing maintainable code.
 
 ### 🧠 Tech Stack
 - **Languages:** Java, SQL  
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate, JPA  
+- **Frameworks:** Spring Boot, Spring Security, Hibernate, JPA  
 - **Concepts:** Dependency Injection, AOP, RESTful APIs, JPA Mappings, CRUD Operations  
 - **Databases:** MySQL, PostgreSQL  
 - **Testing:** JUnit, TestNG, Selenium  
