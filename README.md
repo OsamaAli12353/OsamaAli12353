@@ -101,8 +101,7 @@ Currently working on exciting backend projects showcasing advanced Spring Boot f
 
 ## 💡 Philosophy
 
-> *"Code is like humor — when you have to explain it, it's bad."*  
-> *— Cory House*
+> *"Code is like humor — when you have to explain it, it's bad."*  > *— Cory House*
 
 I believe in writing **self-documenting code** that is:
 - ✨ **Clean** - Easy to read and understand
